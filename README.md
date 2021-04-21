@@ -1,7 +1,7 @@
 # Overview
 This is a simple Hello World program. I created it to get used to using Python in VS Code as well as to get used to using git and github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KlyVqmsDpIk)
 
 # Development Environment
 
