@@ -13,7 +13,7 @@ This is a simple Hello World program. I created it to get used to using Python i
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 
